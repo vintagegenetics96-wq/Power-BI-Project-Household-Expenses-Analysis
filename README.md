@@ -1,6 +1,7 @@
 # Power-BI-Project-Household-Expenses-Analysis
 
 📊 Power BI Project: Household Expenses Analysis
+
 🔹 Project Objective
 To analyze monthly household expenses and identify spending patterns, savings opportunities, and budget optimization using interactive Power BI dashboards.
 
@@ -75,6 +76,7 @@ AVERAGEX(
 
 Category Contribution % =
 DIVIDE([Total Expenses], CALCULATE([Total Expenses], ALL(Expenses[Expense Category])))
+
 🔹 Business Insights
 Rent and groceries contribute the highest to total expenses
 
