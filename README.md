@@ -95,10 +95,6 @@ Data Visualization
 
 Business Insight Generation
 
-🔹 LinkedIn Post Caption (Copy-Paste Ready)
-📊 Power BI Project | Household Expenses Analysis
-
-Analyzed real-world household spending data to uncover expense patterns, optimize budgeting, and identify savings opportunities using interactive dashboards.
 
 🔹 Skills: Power BI | DAX | Data Modeling | Data Visualization
 
